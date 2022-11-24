@@ -1,0 +1,6 @@
+.idea/*
+.idea/inspectionProfiles/*.xml
+.idea/libraries/*.xml
+*/*.iml
+*/target/*
+*.iml
